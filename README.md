@@ -1,5 +1,5 @@
 # JWT_with_PHP
-Add,Edit,Delete,Search API with JWT in core php
+Add,Edit,Delete,Search with  image API with JWT in core php
 
 -------------------------------------------------
 All API's successfully verified by POSTMAN tool.
