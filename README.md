@@ -6,7 +6,7 @@ All API's successfully verified by POSTMAN tool.
 Authentication:JWT authentication with OAuth.
 Refrence: https://jwt.io/
 
-Add API:http://localhost/modestreet/api/add_products.php
+Add API:http://yourdomain/modestreet/api/add_products.php
 Json post:
 {   
     "name" : "jeans",
@@ -16,7 +16,7 @@ Json post:
     "img" : "Paste your image bash64 encoded text"
 }
 
-Edit API:http://localhost/modestreet/api/edit_products.php
+Edit API:http://yourdomain/modestreet/api/edit_products.php
 Json post:
 {   
     "id" : "1",
@@ -28,17 +28,17 @@ Json post:
 }
 
 
-List API:http://localhost/modestreet/api/list_products.php
+List API:http://yourdomain/modestreet/api/list_products.php
 Json post:NULL
 
 
-Delete API:http://localhost/modestreet/api/delete.php
+Delete API:http://yourdomain/modestreet/api/delete.php
 Json post:
 {
     "id" : "11"
 }
 
-Search API: http://localhost/modestreet/api/search.php
+Search API: http://yourdomain/modestreet/api/search.php
 Json post:
 {
     "name" : "jeans"    
